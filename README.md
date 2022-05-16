@@ -37,6 +37,6 @@ Within the single file `App.js` adding the components and pass the property data
 
 ### Notes:
 
-`Mybtn` is a component to make own button.
+`Mybtn` is a component to Create own button.
 In `Btndynamic` I call the component `Mybtn` on that i pass the property data.
 In `Btndynamic` i added arithmetic Operations like addition,subraction,multiplication,divison and then i call the function by passing the props to `Mybtn`.
